@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Notch:wght@200..700&display=swap');
+
+html,
+body {
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+html,
+body,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.stack-sans-notch {
+    font-family: "Stack Sans Notch", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.fredoka {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
